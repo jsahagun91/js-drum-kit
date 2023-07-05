@@ -1,7 +1,7 @@
 # JAVASCRIPT DRUM KIT
 
 ###
-🥁 https://vercel.com/jsahagun91/js-drum-kit
+🥁 https://js-drum-r4ss4uvwv-jsahagun91.vercel.app/
 
 ### ⚙️
 
